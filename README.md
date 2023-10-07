@@ -1,4 +1,4 @@
-<h1 align="center">👋 Soy Majo</h1>
+    <h1 align="center">👋 Soy Majo</h1>
 <h3 align="center">Licenciada en Organizacion Industrial y Profesora en Disciplinas Industriales</h3>
 
 - 🌱 I’m currently learning, Front End, Vue.js
@@ -11,12 +11,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Majoferreri">
-<img align="left" alt="Maria Jose Ferreri Twitter" width="22px" src="https:// />
+<img align="left" alt="Maria Jose Ferreri Twitter" width="22px">
 </a>
 <a href="https://linkedin.com/in/majoferreri">
-<img align="left" alt="Santiago Caraballo LinkedIN" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.linkedin.com%2Fin%2Fmaria-jose-ferreri-648661232%2Fen%3Ftrk%3Dpeople-guest_people_search-card&psig=AOvVaw1B0rCMVi9Ojy76pSBt1T5I&ust=1696790397661000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODAtvnK5IEDFQAAAAAdAAAAABAE />
+<img align="left" alt="Maria Jose Ferreri LinkedIN" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.linkedin.com%2Fin%2Fmaria-jose-ferreri-648661232%2Fen%3Ftrk%3Dpeople-guest_people_search-card&psig=AOvVaw1B0rCMVi9Ojy76pSBt1T5I&ust=1696790397661000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODAtvnK5IEDFQAAAAAdAAAAABAE">
 </a>
-<a href="https://www.instagram.com/majoferreri/">
+<a href="https://www.instagram.com/majoferreri">
 <img align="left" alt="Maria Jose Ferreri Instagram" width="22px" src="https://instagram.faep14-3.fna.fbcdn.net/v/t51.2885-19/18949844_305971996474925_8292472767761088512_a.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.faep14-3.fna.fbcdn.net&_nc_cat=105&_nc_ohc=pP_eoTn3SLUAX_6Du29&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDCJL00j9mkW1LI8UOJLhQGUZ2KZn9AbuwODrni6cHIrQ&oe=65269ABF&_nc_sid=8b3546"/>
 </a>
 
@@ -34,3 +34,5 @@
 </p>
 
 <br />
+</body>
+</html>
